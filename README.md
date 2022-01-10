@@ -3,7 +3,7 @@
 I am a student pursuing my B.E. from UIETH,Panjab University. I am passionate about programming and love to learn new things.I'm recently learning Backend in Web-developement
  under the <a href="https://www.bildemp.com/">**Bildemp**</a> team.
  
-## ⚡ Tech Stack
+## ⚡⚡ Tech Stack ⚡⚡
 
 Here are a few things I've picked up along my learning journey.
 
