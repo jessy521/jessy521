@@ -22,7 +22,7 @@ Here are a few things I've picked up along my learning journey.
 ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics 🥸
 
 <p align="center">
 <a href="https://github.com/jessy521">
@@ -31,7 +31,7 @@ Here are a few things I've picked up along my learning journey.
 </a>
 </p>
 
-## 📫 Get in touch
+## 📫 Get in touch 🤝
 
 <a href="https://www.linkedin.com/in/jessy-sarkar-a34663203/"><img src="https://img.shields.io/badge/-Jessy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
 <a href="https://www.facebook.com/profile.php?id=100008799511988"><img src="https://img.shields.io/badge/-@JESSY-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
