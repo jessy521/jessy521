@@ -33,7 +33,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessy-sarkar-a34663203/) || [![facebook](https://img.shields.io/badge/facebook-like-blue?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.facebook.com/profile.php?id=100008799511988)
+<a href="https://www.linkedin.com/in/jessy-sarkar-a34663203/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> ||<a href="https://www.facebook.com/profile.php?id=100008799511988"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 or give some ♥ on [mail](mailto:jessykumarsarkar@gmail.com) .
 
