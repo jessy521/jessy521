@@ -21,6 +21,16 @@ Here are a few things I've picked up along my learning journey.
 
 ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/jessy521">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jessy521&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jessy521&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessy-sarkar-a34663203/) || [![facebook](https://img.shields.io/badge/facebook-like-blue?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.facebook.com/profile.php?id=100008799511988)
