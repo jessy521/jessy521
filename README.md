@@ -1,7 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">नमस्ते (Namaste)🙏 I am Jessy Kumar Sarkar 👨‍💻
 
-I am a student pursuing my B.E. from UIETH,Panjab University. I am passionate about programming and love to learn new things.I'm recently learning Backend in Web-developement
- under the <a href="https://www.bildemp.com/">**Bildemp**</a> team.
+I am a student pursuing my B.E. from UIETH,Panjab University. I am passionate about programming and love to learn new things.I'm recently learning Backend in Web-developement.
  
 ## ⚡⚡ Tech Stack ⚡⚡
 
