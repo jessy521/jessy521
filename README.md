@@ -14,13 +14,9 @@ Here are a few things I've picked up along my learning journey.
 
 ### ⚙️ &nbsp;GitHub Analytics 🥸
 
-<p align="center">
-<a href="https://github.com/jessy521">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jessy521&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=jessy521&theme=dark&hide_border=false)<br/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jessy521&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=jessy521&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jessy521&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jessy521&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jessy521&theme=radical&no-frame=false&no-bg=true&margin-w=4)
