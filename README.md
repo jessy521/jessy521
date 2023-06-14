@@ -21,6 +21,9 @@ Here are a few things I've picked up along my learning journey.
 </a>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jessy521&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 📫 Get in touch 🤝
 
 <a href="https://www.linkedin.com/in/jessy-sarkar-a34663203/"><img src="https://img.shields.io/badge/-Jessy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
